@@ -23,3 +23,4 @@
 * Modernizer JS
 * Polyfill
 * Component, properties, event, state full and stateless
+* GRASP
